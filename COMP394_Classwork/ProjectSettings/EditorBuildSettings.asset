@@ -5,7 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/GameWin.unity
     guid: 1d585b4cb24c04344a560fd7f57c3719
   - enabled: 1

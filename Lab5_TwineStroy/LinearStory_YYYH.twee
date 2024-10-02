@@ -1,0 +1,54 @@
+:: StoryTitle
+LinearStory_YYYH
+
+
+:: StoryData
+{
+  "ifid": "1249447E-AF2C-497E-8BA0-E034B68CCE2D",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Passage 1: The Adventure Starts",
+  "zoom": 1
+}
+
+
+:: Passage 1: The Adventure Starts {"position":"800,75","size":"100,100"}
+''Passage 1: The Adventure Starts''
+
+You wake up in the middle of a strange forest. The trees are tall, and everything around you feels unfamiliar. Something feels wrong—you can’t remember much about yourself. It’s like pieces of your memory are missing, and you don’t know why you’re here.
+
+[[Next->Passage 2: Meeting a Strange Crow]]
+
+
+:: Passage 2: Meeting a Strange Crow {"position":"800,200","size":"100,100"}
+''Passage 2: Meeting a Strange Crow''
+
+As you walk, confused and lost, a large crow lands on a nearby branch. Its feathers are black and shiny, and it looks at you with bright eyes. “You’ve lost your memories,” it caws. “To get them back, you need to collect the missing pieces. Once you do, you’ll become the Grim Reaper.”
+
+The crow flaps its wings and adds, “But be careful. There are enemies along the way.”
+
+[[Next ->Passage 3: Facing the Bunny Enemy]]
+
+
+:: Passage 3: Facing the Bunny Enemy {"position":"800,325","size":"100,100"}
+''Passage 3: Facing the Bunny Enemy''
+
+As you move through the forest, an angry bunny with sharp claws jumps out at you. It attacks quickly, but you manage to fight back. Just before you strike the final blow, the bunny speaks in a weak voice. “You may have beaten me, but a much stronger enemy is coming for you soon.”
+
+[[Next ->Passage 4: Finding the Map]]
+
+
+:: Passage 4: Finding the Map {"position":"800,450","size":"100,100"}
+''Passage 4: Finding the Map''
+
+After defeating the bunny, you get lost deeper in the forest. You feel like you’re going in circles, but then you find an old map lying on the ground. The map shows the way to a place where your final challenge awaits: a battle with a powerful enemy named Batty.
+
+[[Next ->Passage 5: The Final Battle]]
+
+
+:: Passage 5: The Final Battle {"position":"800,575","size":"100,100"}
+''Passage 5: The Final Battle''
+
+You follow the map to a dark, eerie place. Batty, the giant bat, waits for you. The battle is tough, but in the end, you defeat Batty. With all your memory fragments now collected, you feel a strange power growing inside you. Finally, you ascend and take your place as the Grim Reaper.
+
+''THE END''
