@@ -25,5 +25,7 @@ public class HighScore : MonoBehaviour
         { // d
             PlayerPrefs.SetInt("HighScore", score);
         }
+        Debug.Log(gt.text);
+
     }
 }
