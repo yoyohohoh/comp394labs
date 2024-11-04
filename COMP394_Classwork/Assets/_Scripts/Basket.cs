@@ -51,5 +51,21 @@ public class Basket : MonoBehaviour
                 HighScore.score = score;
             }
         }
+        if (collidedWith.CompareTag("GoldApple"))
+        {
+            Destroy(collidedWith);
+            // Parse the text of the scoreGT into an int
+            int score = int.Parse(scoreGT.text);
+            // Add points for catching the apple
+            score += 500;
+            // Convert the score back to a string and display it
+            scoreGT.text = score.ToString();
+
+            // Track the high score
+            if (score > HighScore.score)
+            {
+                HighScore.score = score;
+            }
+        }
     }
 }
