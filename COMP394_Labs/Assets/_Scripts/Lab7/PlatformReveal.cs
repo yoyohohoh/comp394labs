@@ -5,11 +5,11 @@ using UnityEngine;
 public class PlatformReveal : MonoBehaviour
 {
     public float speed = 5;
-    private bool isRotating = false;
+    private bool isRotating;
 
     private void Start()
     {
-
+        isRotating = false;
     }
     void OnCollisionEnter(Collision other)
     {
