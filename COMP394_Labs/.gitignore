@@ -10,6 +10,7 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 /[Jj]oystickPack/
+/[Aa]ssets/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
